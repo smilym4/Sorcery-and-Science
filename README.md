@@ -11,7 +11,6 @@
 
 ## Opcionális Telepítési Instrukciók
 4. Másold be a minecraft mappájába a options.txt fájlt.
-5. Másold be a minecraft mappájába a servers.dat fájlt.
 
 ## Vége
 6. Indítsd el a játékot.
