@@ -13,5 +13,5 @@
 4. Másold be a minecraft mappájába a options.txt fájlt.
 
 ## Vége
-6. Indítsd el a játékot.
-7. Jó szórakozást!
+5. Indítsd el a játékot.
+6. Jó szórakozást!
